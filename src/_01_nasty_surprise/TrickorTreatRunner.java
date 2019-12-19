@@ -4,5 +4,7 @@ public class TrickorTreatRunner {
 public static void main(String[] args) {
 	TrickorTreat treat = new TrickorTreat();
 	treat.gui();
+	
+	
 }
 }
